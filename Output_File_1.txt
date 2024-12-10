@@ -1,0 +1,3 @@
+hours : 6.5
+earnings : 195.9600
+earnings_per_hour : 30.14769230769231
